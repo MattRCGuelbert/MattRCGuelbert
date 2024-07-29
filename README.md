@@ -1,6 +1,6 @@
 # About me 👋
 
-I'm a second year PhD student currently working on understanding tumour immune micronevironments using spatially resolved proteomics.
+Second year PhD student, currently working on understanding tumour immune micronevironments using spatially resolved proteomics.
 
 
 <!--
