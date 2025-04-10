@@ -2,6 +2,8 @@
 
 Second year PhD student, currently working on understanding tumour immune micronevironments using spatially resolved proteomics.
 
+![premium_photo-1664474619075-644dd191935f](https://github.com/user-attachments/assets/f6c84383-dc70-4360-a8af-8eaab986e18f)
+
 
 <!--
 **MattRCGuelbert/MattRCGuelbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
